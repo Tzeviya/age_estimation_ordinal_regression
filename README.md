@@ -1,6 +1,9 @@
 # age_estimation_ordinal_regression
 Pytorch implementation of ordinal regression algorithms [OR-CNN](https://openaccess.thecvf.com/content_cvpr_2016/papers/Niu_Ordinal_Regression_With_CVPR_2016_paper.pdf) and [CORAL](https://arxiv.org/pdf/1901.07884.pdf) for age estimation datasets.
 
+
+This code is in some places based on the code [here](https://github.com/Raschka-research-group/coral-cnn).
+
 ------
 
 
@@ -47,13 +50,13 @@ To train ORCNN (e.g. on the historical color images dataset), run:
 
 ```
     python main.py  --num_classes [num_of_labels]
-    				--historical
-    				--pretrain
-    				--arc [desired_cnn_architecture]
-    				--bn 
-    				--opt sgd
-    				--save_file [model_name]
-    				--cuda
+    			--historical
+    			--pretrain
+    			--arc [desired_cnn_architecture]
+    			--bn 
+    			--opt sgd
+    			--save_file [model_name]
+    			--cuda
 
 ```
 
