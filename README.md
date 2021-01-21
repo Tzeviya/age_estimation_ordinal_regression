@@ -55,7 +55,7 @@ To train ORCNN (e.g. on the historical color images dataset), run:
     				--save_file [model_name]
     				--cuda
 
-    ```
+```
 
 
 ## ORCNN
