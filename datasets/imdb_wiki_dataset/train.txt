@@ -1,0 +1,10 @@
+16	/x-wing/datasets/public/IMDB-WIKI/wiki_crop/38/15986138_1991-08-26_2007.jpg
+16	/x-wing/datasets/public/IMDB-WIKI/imdb_crop/96/nm1396596_rm1968674560_1992-11-25_2008.jpg
+16	/x-wing/datasets/public/IMDB-WIKI/imdb_crop/38/nm0005438_rm1454545152_1974-10-6_1990.jpg
+16	/x-wing/datasets/public/IMDB-WIKI/imdb_crop/63/nm0001763_rm3812331008_1979-12-5_1995.jpg
+16	/x-wing/datasets/public/IMDB-WIKI/imdb_crop/25/nm3515425_rm2177483264_1995-12-29_2011.jpg
+16	/x-wing/datasets/public/IMDB-WIKI/imdb_crop/87/nm3590487_rm43289856_1986-4-2_2002.jpg
+16	/x-wing/datasets/public/IMDB-WIKI/imdb_crop/24/nm1404824_rm4157194752_1995-11-29_2011.jpg
+16	/x-wing/datasets/public/IMDB-WIKI/imdb_crop/87/nm3034087_rm1094880512_1989-7-21_2005.jpg
+16	/x-wing/datasets/public/IMDB-WIKI/imdb_crop/38/nm0947338_rm1381210624_1989-3-11_2005.jpg
+16	/x-wing/datasets/public/IMDB-WIKI/imdb_crop/88/nm1242688_rm2272171776_1992-10-12_2008.jpg

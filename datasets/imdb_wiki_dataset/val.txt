@@ -1,0 +1,5 @@
+16	/datasets/datasets/public/IMDB-WIKI/imdb_crop/98/nm3033898_rm988451840_1989-3-13_2005.jpg
+16	/datasets/datasets/public/IMDB-WIKI/imdb_crop/25/nm3515425_rm761059584_1995-12-29_2011.jpg
+16	/datasets/datasets/public/IMDB-WIKI/imdb_crop/32/nm1227232_rm3447692032_1988-8-17_2004.jpg
+16	/datasets/datasets/public/IMDB-WIKI/imdb_crop/88/nm0342488_rm4127692800_1988-8-24_2004.jpg
+16	/datasets/datasets/public/IMDB-WIKI/imdb_crop/87/nm3034087_rm3273820928_1989-7-21_2005.jpg

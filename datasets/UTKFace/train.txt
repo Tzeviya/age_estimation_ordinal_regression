@@ -1,0 +1,10 @@
+95	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/95_1_0_20170120230149594.jpg.chip.jpg
+95	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/95_1_0_20170120230322267.jpg.chip.jpg
+101	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/101_1_2_20170105174739309.jpg.chip.jpg
+101	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/101_0_0_20170112213500903.jpg.chip.jpg
+82	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/82_1_1_20170112224554283.jpg.chip.jpg
+82	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/82_0_0_20170111205943203.jpg.chip.jpg
+82	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/82_1_0_20170120225739329.jpg.chip.jpg
+82	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/82_0_2_20170111210508477.jpg.chip.jpg
+82	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/82_0_0_20170111210233971.jpg.chip.jpg
+82	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/82_0_2_20170111210612356.jpg.chip.jpg

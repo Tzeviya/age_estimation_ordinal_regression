@@ -1,0 +1,4 @@
+77	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/77_0_1_20170117173757948.jpg.chip.jpg
+110	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/110_0_0_20170112213500903.jpg.chip.jpg
+95	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/95_1_0_20170110175711811.jpg.chip.jpg
+82	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/82_0_2_20170111210110290.jpg.chip.jpg

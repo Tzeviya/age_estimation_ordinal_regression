@@ -1,0 +1,2 @@
+95	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/95_1_0_20170117174948948.jpg.chip.jpg
+82	/datasets/datasets/public/UTKFace/UTKface_Aligned&cropped-20200817T122602Z-001/UTKface_Aligned_cropped/UTKFace/82_1_0_20170120134927295.jpg.chip.jpg
